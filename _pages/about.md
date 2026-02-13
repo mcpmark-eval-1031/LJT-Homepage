@@ -54,6 +54,10 @@ I am a first-year PhD candidate in Computer Science at the Hong Kong University 
 * **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers
 * **Research Areas**: Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models, Reinforcement Learning, Interpretability
 
+## Awards
+
+* Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
+
 ## Contact
 
 * **Email**: jliugi@connect.ust.hk
