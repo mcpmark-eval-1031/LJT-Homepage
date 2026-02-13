@@ -3,12 +3,12 @@ title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for 
 collection: publications
 category: conferences
 permalink: /publication/2024-07-01-in-context-sharpness
-excerpt: 'We propose using in-context sharpness as an alert signal for hallucination mitigation in language models.'
+excerpt: 'We propose using in-context sharpness as alerts for hallucination mitigation in LLMs.'
 date: 2024-07-01
 venue: 'ICML 2024'
-paperurl: 'https://proceedings.mlr.press/'
+paperurl: ''
 slidesurl: ''
 bibtexurl: ''
-citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). &quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&quot; <i>Proceedings of the 41st International Conference on Machine Learning (ICML)</i>.'
+citation: 'Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). \'In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.\' <i>International Conference on Machine Learning (ICML)</i>.'
 ---
-This paper introduces the concept of in-context sharpness as an inner representation signal to detect and mitigate hallucinations in language models.
+This paper introduces a novel approach to detect and mitigate hallucinations in large language models using in-context sharpness metrics.
