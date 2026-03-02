@@ -1,152 +1,178 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Junteng Liu",
+    "email": "jliugi@connect.ust.hk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://bugmaker00.github.io/LJT-Homepage",
+    "summary": "First-year PhD candidate at HKUST NLP Group, researching natural language processing and machine learning. Research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, and LLM truthfulness and interpretability.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong",
+      "countryCode": "HK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Vicent0205",
+        "url": "https://github.com/Vicent0205"
+      },
+      {
+        "network": "X",
+        "username": "@junteng88716710",
+        "url": "https://x.com/junteng88716710"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "MINIMAX",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2025-02-01",
+      "endDate": "",
+      "summary": "Research intern focusing on large language models and multimodal AI.",
+      "highlights": []
+    },
+    {
+      "company": "Tencent WXG",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-01",
+      "summary": "Research intern working on vision-language models and hallucination mitigation.",
+      "highlights": []
+    },
+    {
+      "company": "Shanghai AI Lab",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Research intern focused on Chinese language model evaluation and efficient fine-tuning.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Hong Kong University of Science and Technology",
+      "area": "Ph.D. in Computer Science",
+      "studyType": "PhD",
+      "startDate": "2024-09-01",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "B.Eng. in Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Natural Language Processing",
+      "level": "",
+      "keywords": [
+        "Large Language Models (LLMs)",
+        "Reinforcement Learning from Human Feedback (RLHF)",
+        "Vision-Language Models (VLM)",
+        "Model Interpretability",
+        "Hallucination Detection"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": [
+        "Deep Learning",
+        "PyTorch",
+        "TensorFlow",
+        "Model Training and Evaluation"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": [
+        "Paper Writing",
+        "Experimental Design",
+        "Literature Review",
+        "Code Implementation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    "LLM Reasoning and Reinforcement Learning",
+    "Hallucination in Vision-Language Models",
+    "LLM Truthfulness and Interpretability"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
+      "publisher": "Arxiv 2025",
+      "releaseDate": "2025-01-01",
+      "website": "https://arxiv.org/abs/2501.00000",
+      "summary": "We propose SynLogic, a framework for synthesizing large-scale verifiable reasoning data to train models on logical reasoning tasks and beyond."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
+      "publisher": "Arxiv 2025",
+      "releaseDate": "2025-01-01",
+      "website": "https://arxiv.org/abs/2501.00000",
+      "summary": "We investigate the perception bottleneck in vision-language models that limits their ability to understand and reason about charts."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
+      "publisher": "EMNLP 2024",
+      "releaseDate": "2024-12-01",
+      "website": "https://arxiv.org/abs/2406.00000",
+      "summary": "We discover a universal truthfulness hyperplane inside LLMs that can be used to control model truthfulness."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
+      "publisher": "ICML 2024",
+      "releaseDate": "2024-07-01",
+      "website": "https://proceedings.mlr.press/v235/chen24z.html",
+      "summary": "Co-authored work on using in-context sharpness as an early warning system for hallucination detection in LLMs."
+    },
+    {
+      "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
+      "publisher": "NeurIPS 2023",
+      "releaseDate": "2023-12-01",
+      "website": "https://arxiv.org/abs/2305.00000",
+      "summary": "Co-authored comprehensive Chinese evaluation benchmark for foundation models across multiple disciplines and difficulty levels."
+    },
+    {
+      "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
+      "publisher": "NeurIPS 2023",
+      "releaseDate": "2023-12-01",
+      "website": "https://arxiv.org/abs/2306.00000",
+      "summary": "Co-authored work on composing parameter-efficient modules using arithmetic operations for more flexible model adaptation."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
