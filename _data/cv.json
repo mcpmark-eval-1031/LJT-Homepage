@@ -4,7 +4,7 @@
     "email": "jliugi@connect.ust.hk",
     "phone": "",
     "website": "https://bugmaker00.github.io/LJT-Homepage",
-    "summary": "First-year PhD candidate at HKUST NLP Group, researching natural language processing and machine learning. Research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, and LLM truthfulness and interpretability.",
+    "summary": "First-year PhD candidate at HKUST NLP Group. Graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning. Research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and interpretability.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,7 +24,7 @@
         "url": "https://github.com/Vicent0205"
       },
       {
-        "network": "X",
+        "network": "X (Twitter)",
         "username": "@junteng88716710",
         "url": "https://x.com/junteng88716710"
       }
@@ -46,7 +46,7 @@
       "website": "",
       "startDate": "2024-06-01",
       "endDate": "2024-09-01",
-      "summary": "Research intern working on vision-language models and hallucination mitigation.",
+      "summary": "Research intern working on vision-language models and hallucination mitigation, advised by Zifei Shan.",
       "highlights": []
     },
     {
@@ -55,7 +55,7 @@
       "website": "",
       "startDate": "2023-06-01",
       "endDate": "2023-12-01",
-      "summary": "Research intern focused on Chinese language model evaluation and efficient fine-tuning.",
+      "summary": "Research intern focused on Chinese language model evaluation and efficient fine-tuning, advised by Prof. Yu Cheng.",
       "highlights": []
     }
   ],
@@ -81,35 +81,19 @@
   ],
   "skills": [
     {
-      "name": "Natural Language Processing",
+      "name": "Programming Languages",
       "level": "",
-      "keywords": [
-        "Large Language Models (LLMs)",
-        "Reinforcement Learning from Human Feedback (RLHF)",
-        "Vision-Language Models (VLM)",
-        "Model Interpretability",
-        "Hallucination Detection"
-      ]
+      "keywords": ["Python", "C++", "Java", "JavaScript"]
     },
     {
-      "name": "Machine Learning",
+      "name": "Machine Learning Frameworks",
       "level": "",
-      "keywords": [
-        "Deep Learning",
-        "PyTorch",
-        "TensorFlow",
-        "Model Training and Evaluation"
-      ]
+      "keywords": ["PyTorch", "TensorFlow", "Hugging Face Transformers"]
     },
     {
-      "name": "Research",
+      "name": "Research Areas",
       "level": "",
-      "keywords": [
-        "Paper Writing",
-        "Experimental Design",
-        "Literature Review",
-        "Code Implementation"
-      ]
+      "keywords": ["Natural Language Processing", "Machine Learning", "Large Language Models", "Vision-Language Models", "Reinforcement Learning", "Model Interpretability"]
     }
   ],
   "languages": [
@@ -127,48 +111,55 @@
     "Hallucination in Vision-Language Models",
     "LLM Truthfulness and Interpretability"
   ],
-  "references": [],
+  "awards": [
+    {
+      "title": "Zhiyuan Honor Scholarship",
+      "date": "",
+      "awarder": "Shanghai Jiao Tong University",
+      "summary": "Academic honor awarded for outstanding academic performance at Shanghai Jiao Tong University."
+    }
+  ],
   "publications": [
     {
       "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
       "publisher": "Arxiv 2025",
       "releaseDate": "2025-01-01",
-      "website": "https://arxiv.org/abs/2501.00000",
+      "website": "https://arxiv.org/abs/",
       "summary": "We propose SynLogic, a framework for synthesizing large-scale verifiable reasoning data to train models on logical reasoning tasks and beyond."
     },
     {
       "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
       "publisher": "Arxiv 2025",
       "releaseDate": "2025-01-01",
-      "website": "https://arxiv.org/abs/2501.00000",
+      "website": "https://arxiv.org/abs/",
       "summary": "We investigate the perception bottleneck in vision-language models that limits their ability to understand and reason about charts."
     },
     {
       "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "publisher": "EMNLP 2024",
       "releaseDate": "2024-12-01",
-      "website": "https://arxiv.org/abs/2406.00000",
+      "website": "https://arxiv.org/abs/",
       "summary": "We discover a universal truthfulness hyperplane inside LLMs that can be used to control model truthfulness."
     },
     {
       "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "publisher": "ICML 2024",
       "releaseDate": "2024-07-01",
-      "website": "https://proceedings.mlr.press/v235/chen24z.html",
+      "website": "https://proceedings.mlr.press/",
       "summary": "Co-authored work on using in-context sharpness as an early warning system for hallucination detection in LLMs."
     },
     {
       "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
-      "website": "https://arxiv.org/abs/2305.00000",
+      "website": "https://arxiv.org/abs/",
       "summary": "Co-authored comprehensive Chinese evaluation benchmark for foundation models across multiple disciplines and difficulty levels."
     },
     {
       "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
-      "website": "https://arxiv.org/abs/2306.00000",
+      "website": "https://arxiv.org/abs/",
       "summary": "Co-authored work on composing parameter-efficient modules using arithmetic operations for more flexible model adaptation."
     }
   ],
