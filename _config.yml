@@ -1,15 +1,15 @@
 ---
 title: Junteng Liu - PhD Candidate at HKUST NLP Group
-description: Junteng Liu's academic portfolio - PhD candidate at HKUST NLP Group researching NLP and ML
+description: Junteng Liu's academic portfolio - First-year PhD candidate at HKUST NLP Group researching NLP and ML
 url: https://bugmaker00.github.io/LJT-Homepage
 baseurl: /LJT-Homepage
-repository: bugmaker00/LJT-Homepage
+repository: mcpmark-eval-1031/LJT-Homepage
 
 author:
   avatar: profile.png
   name: Junteng Liu
   pronouns:
-  bio: First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning.
+  bio: First-year PhD candidate at HKUST NLP Group. Graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning.
   location: Hong Kong
   employer: Hong Kong University of Science and Technology
   uri:
@@ -278,4 +278,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-...
