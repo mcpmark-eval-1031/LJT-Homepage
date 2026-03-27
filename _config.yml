@@ -1,133 +1,146 @@
----
-title: Junteng Liu - PhD Candidate at HKUST NLP Group
-description: Junteng Liu's academic portfolio - First-year PhD candidate at HKUST NLP Group researching NLP and ML
-url: https://bugmaker00.github.io/LJT-Homepage
-baseurl: /LJT-Homepage
-repository: mcpmark-eval-1031/LJT-Homepage
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Junteng Liu"
+title_separator          : "-"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic portfolio"
+url                      : https://bugmaker00.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "mcpmark-eval-1031/LJT-Homepage"
 
+# Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar: profile.png
-  name: Junteng Liu
-  pronouns:
-  bio: First-year PhD candidate at HKUST NLP Group. Graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning.
-  location: Hong Kong
-  employer: Hong Kong University of Science and Technology
-  uri:
-  email: jliugi@connect.ust.hk
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Junteng Liu"
+  pronouns         :
+  bio              : "First-year PhD candidate at HKUST NLP Group. Graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning."
+  location         : "Hong Kong"
+  employer         : "Hong Kong University of Science and Technology"
+  uri              :
+  email            : "jliugi@connect.ust.hk"
 
-  academia:
-  arxiv:
-  googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-  inspire-hep:
-  impactstory:
-  orcid:
-  semantic:
-  ssrn:
-  pubmed:
-  researchgate:
-  scopus:
-  zotero:
+  # Academic websites
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  inspire-hep      :
+  impactstory      :
+  orcid            :
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
-  bitbucket:
-  codepen:
-  dribbble:
-  github: Vicent0205
-  kaggle:
-  stackoverflow:
+  # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "Vicent0205"
+  kaggle           :
+  stackoverflow    :
 
-  artstation:
-  bluesky:
-  facebook:
-  flickr:
-  foursquare:
-  goodreads:
-  google_plus:
-  keybase:
-  instagram:
-  lastfm:
-  linkedin:
-  mastodon:
-  medium:
-  pinterest:
-  soundcloud:
-  steam:
-  telegram:
-  tumblr:
-  twitter: junteng88716710
-  vine:
-  weibo:
-  wikipedia:
-  xing:
-  youtube:
-  zhihu:
+  # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          : "junteng88716710"
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
 
+# Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
 
-teaser:
-breadcrumbs: false
-words_per_minute: 160
-future: true
-read_more: "disabled"
-talkmap_link: false
-
+# Site Settings
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider:
+  provider               :
   disqus:
-    shortname:
+    shortname            :
   discourse:
-    server:
+    server               :
   facebook:
-    appid:
-    num_posts:
-    colorscheme:
+    appid                :
+    num_posts            :
+    colorscheme          :
 staticman:
-  allowedFields: ['name', 'email', 'url', 'message']
-  branch: "gh-pages"
-  commitMessage: "New comment."
-  filename: comment-{@timestamp}
-  format: "yml"
-  moderation: true
-  path: "_data/comments/{options.slug}"
-  requiredFields: ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email: "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type: "date"
+      type               : "date"
       options:
-        format: "iso8601"
+        format           : "iso8601"
 atom_feed:
-  hide: false
+  hide                   : false
+  path                   :
 
-google_site_verification:
-bing_site_verification:
-alexa_site_verification:
-yandex_site_verification:
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
+# Social Sharing
 twitter:
-  username: junteng88716710
+  username               : "junteng88716710"
 facebook:
-  username:
-  app_id:
-  publisher:
-og_image:
-og_description:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :
+og_description           :
 social:
-  type: Person
-  name: Junteng Liu
+  type                   : Person
+  name                   : "Junteng Liu"
   links:
 
+# Analytics
 analytics:
-  provider: "false"
+  provider               : "false"
   google:
-    tracking_id:
+    tracking_id          :
 
+# Reading Files
 include:
   - .htaccess
   - _pages
@@ -165,12 +178,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -181,6 +196,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -195,7 +211,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# These settings control how pages and collections are included in the site
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -206,12 +224,14 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -220,6 +240,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -228,6 +249,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -236,6 +258,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
   - scope:
       path: ""
       type: talks
@@ -244,13 +267,16 @@ defaults:
       author_profile: true
       share: true
 
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
+# Outputting
 permalink: /:categories/:title/
-timezone: Etc/UTC
+timezone: Asia/Hong_Kong
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -267,6 +293,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+# Archives
 category_archive:
   type: liquid
   path: /categories/
@@ -274,6 +301,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# HTML Compression
 compress_html:
   clippings: all
   ignore:
