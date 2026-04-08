@@ -1,0 +1,117 @@
+{
+  "snapshot_id": "snapshot_single_1",
+  "schema_version": "1.0",
+  "repository": "mcpmark-eval-1031/LJT-Homepage",
+  "canonical_branch": "master",
+  "canonical_commit_sha": "49369cf533c9516822005fb3dd4e5711b7874659",
+  "snapshot_timestamp": "2026-03-29T13:01:52Z",
+  "snapshot_author": "bugmaker00",
+  "review_surface_file": "snapshot_selection_single_1.csv",
+  "total_candidates_reviewed": 22,
+  "total_kept": 13,
+  "total_rejected_or_superseded": 9,
+  "finalized_files": [
+    {
+      "candidate_id": "C01",
+      "file_path": "_config.yml",
+      "blob_sha": "a821cd312f57a4ce18393ca071fc49ad1a7a843f",
+      "file_size_bytes": 6735,
+      "description": "Jekyll site config personalised for Junteng Liu (locale, title, author bio, Google Scholar, Twitter, timezone Asia/Hong_Kong)"
+    },
+    {
+      "candidate_id": "C02",
+      "file_path": "README.md",
+      "blob_sha": "dc0b31ec2a1168d143a514ebeef1f706383e5494",
+      "file_size_bytes": 1576,
+      "description": "Personal README introducing LJT as HKUST PhD candidate; replaces template README"
+    },
+    {
+      "candidate_id": "C03",
+      "file_path": "_pages/about.md",
+      "blob_sha": "a59203d34d003eb503a5b44592da0931f24de92c",
+      "file_size_bytes": 2935,
+      "description": "Homepage: bio, education (HKUST PhD / SJTU BEng), research experience (MINIMAX, Tencent, Shanghai AI Lab), 6 publications, awards, contact"
+    },
+    {
+      "candidate_id": "C04",
+      "file_path": "_pages/cv.md",
+      "blob_sha": "5820a80fa7c9a9ad45545adaa07f95adb5984b1d",
+      "file_size_bytes": 1355,
+      "description": "CV page rendering education, research experience, interests, publications from cv.json and _publications collection"
+    },
+    {
+      "candidate_id": "C05",
+      "file_path": "_pages/publications.md",
+      "blob_sha": "9d8c264e03b30a81ad3ab05e531ccd9b037358ce",
+      "file_size_bytes": 359,
+      "description": "Publications listing page (added in final master commit 49369cf5)"
+    },
+    {
+      "candidate_id": "C06",
+      "file_path": "_data/authors.yml",
+      "blob_sha": "2ded8d2ba172fd0f0e732f9cacc1fd80b0ed4d09",
+      "file_size_bytes": 696,
+      "description": "Author profile YAML: name Junteng Liu, HKUST NLP, email, Google Scholar, GitHub Vicent0205, Twitter"
+    },
+    {
+      "candidate_id": "C07",
+      "file_path": "_data/cv.json",
+      "blob_sha": "87675c5b4e4df24005b9e86d1c3aa5b3fd313906",
+      "file_size_bytes": 5948,
+      "description": "Structured CV JSON: education (HKUST, SJTU), work (MINIMAX, Tencent WXG, Shanghai AI Lab), publications list, awards (Zhiyuan Honor Scholarship)"
+    },
+    {
+      "candidate_id": "C08",
+      "file_path": "_publications/2023-arithmetic-peft.md",
+      "blob_sha": "73357ea5096121dda711b8a48e403cb3cf6f895b",
+      "file_size_bytes": 689,
+      "description": "Pub: Composing Parameter-Efficient Modules with Arithmetic Operations (NeurIPS 2023)"
+    },
+    {
+      "candidate_id": "C09",
+      "file_path": "_publications/2023-ceval.md",
+      "blob_sha": "666d38fdadcaf535c5d11e1a157405ab192b18fa",
+      "file_size_bytes": 991,
+      "description": "Pub: C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models (NeurIPS 2023)"
+    },
+    {
+      "candidate_id": "C10",
+      "file_path": "_publications/2024-hallucination-mitigation.md",
+      "blob_sha": "bc34bd20bb1ce0f32cb6a11e20707e7a129784a2",
+      "file_size_bytes": 855,
+      "description": "Pub: In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation (ICML 2024)"
+    },
+    {
+      "candidate_id": "C11",
+      "file_path": "_publications/2024-truthfulness-hyperplane.md",
+      "blob_sha": "84af3b285684008376212abb25ed6cbc69a67b20",
+      "file_size_bytes": 675,
+      "description": "Pub: On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024)"
+    },
+    {
+      "candidate_id": "C12",
+      "file_path": "_publications/2025-chart-vlm.md",
+      "blob_sha": "b7a696aed55f9cf586d63025a1fec4ec951f1b18",
+      "file_size_bytes": 674,
+      "description": "Preprint: On the Perception Bottleneck of VLMs for Chart Understanding (2025)"
+    },
+    {
+      "candidate_id": "C13",
+      "file_path": "_publications/2025-synlogic.md",
+      "blob_sha": "fbe5e9966ec688d345f21b4c985e04e6b1c73b39",
+      "file_size_bytes": 1057,
+      "description": "Preprint: SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025)"
+    }
+  ],
+  "rejected_summary": [
+    {"candidate_id": "C14", "branch": "read-more",    "file_path": "_config.yml",                         "reason": "read_more=enabled not adopted; master uses disabled"},
+    {"candidate_id": "C15", "branch": "read-more",    "file_path": "_pages/about.md",                    "reason": "Template placeholder; superseded by LJT content"},
+    {"candidate_id": "C16", "branch": "fix-teaching", "file_path": "_config.yml",                         "reason": "Old template _config; teaching bug absent in LJT master"},
+    {"candidate_id": "C17", "branch": "fix-teaching", "file_path": "_pages/about.md",                    "reason": "Template placeholder; superseded by LJT content"},
+    {"candidate_id": "C18", "branch": "fix-teaching", "file_path": "_teaching/2014-spring-teaching-1.md", "reason": "Sample teaching stub; no teaching entries for LJT"},
+    {"candidate_id": "C19", "branch": "fix-teaching", "file_path": "_teaching/2015-spring-teaching-2.md", "reason": "Sample teaching stub; no teaching entries for LJT"},
+    {"candidate_id": "C20", "branch": "#137",         "file_path": "_config.yml",                         "reason": "Newer template config superseded by LJT custom master"},
+    {"candidate_id": "C21", "branch": "#137",         "file_path": "README.md",                           "reason": "Template README replaced by LJT personal README"},
+    {"candidate_id": "C22", "branch": "#137",         "file_path": "_pages/about.md",                    "reason": "Template placeholder; superseded by LJT content"}
+  ]
+}
