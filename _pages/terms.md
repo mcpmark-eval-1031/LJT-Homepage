@@ -13,27 +13,52 @@ The privacy of my visitors is extremely important. This Privacy Policy outlines 
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+## Publications (Selected)
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — *ArXiv* — First author. A framework for generating large-scale logical reasoning data with verifiable correctness. [GitHub](https://github.com/Vicent0205/SynLogic)
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — *ArXiv* — First author. Investigates the perception bottleneck in vision-language models for understanding charts. [GitHub](https://github.com/Vicent0205/Vision4Chart)
 
-All of this information is not linked to anything that is personally identifiable.
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — *EMNLP 2024* — First author. Discovers a universal truthfulness hyperplane inside LLMs and proposes methods to detect and mitigate hallucinations. [GitHub](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
-### Cookies and Web Beacons
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024) — *ICML 2024* — Co-author. Uses inner representation sharpness as an early alert mechanism for hallucination detection.
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](https://disqus.com) the next time you leave a comment.
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023) — *NeurIPS 2023* — Co-author. A multi-level multi-discipline Chinese evaluation suite for assessing foundation models.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023) — *NeurIPS 2023* — Co-author. Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining.
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+## Research Experience
 
-#### Google Analytics
+**Ph.D. Candidate**, HKUST NLP Group — 2024-Present
+- Research focuses on NLP and machine learning
+- Advised by Prof. Junxian He
+- Research interests: LLM reasoning & reinforcement learning, hallucination in VLMs, LLM truthfulness & interpretability
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.com/analytics/learn/privacy.html).
+**Research Intern**, MINIMAX — Feb 2025 - Present
+- Research internship focusing on large language models and machine learning
+
+**Research Intern**, Tencent WXG — Jun 2024 - Sep 2024
+- Worked on vision-language models for chart understanding
+- Advised by Zifei Shan
+
+**Research Intern**, Shanghai AI Lab — Jun 2023 - Dec 2023
+- Worked on NLP and evaluation of large language models
+- Advised by Prof. Yu Cheng
+
+## Academic Background
+
+- **B.Eng. in Computer Science**, Shanghai Jiao Tong University (SJTU), 2020-2024
+  - Received Zhiyuan Honor Scholarship
+
+## Skills
+
+- **Programming**: Python, C++, JavaScript, Shell
+- **Deep Learning**: PyTorch, TensorFlow, JAX
+- **NLP Tools**: HuggingFace Transformers, Jieba, NLTK
+
+## Contact
+
+- **Email**: jliugi@connect.ust.hk
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)

@@ -141,40 +141,6 @@ Essentially what is taking place is that the [Plotly attributes](https://plotly.
 
 ```plotly
 {
-  "data": [
-    {
-      "x": [1, 2, 3, 4, 5],
-      "y": [1, 6, 3, 6, 1],
-      "mode": "markers",
-      "type": "scatter",
-      "name": "Team A",
-      "text": ["A-1", "A-2", "A-3", "A-4", "A-5"],
-      "marker": { "size": 12 }
-    },
-    {
-      "x": [1.5, 2.5, 3.5, 4.5, 5.5],
-      "y": [4, 1, 7, 1, 4],
-      "mode": "markers",
-      "type": "scatter",
-      "name": "Team B",
-      "text": ["B-a", "B-b", "B-c", "B-d", "B-e"],
-      "marker": { "size": 12 }
-    }    
-  ],
-  "layout": {
-    "xaxis": {
-      "range": [ 0.75, 5.25 ]
-    },
-    "yaxis": {
-      "range": [0, 8]
-    },
-    "title": {"text": "Data Labels Hover"}
-  }
-}
-```
-
-```plotly
-{
   "data": [{
       "x": [1, 2, 3],
       "y": [4, 5, 6],
@@ -244,15 +210,14 @@ Single line blockquote:
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [John Doe](#)    | 2022   | Description of the item in the list                          |
 
 ### Table 2
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
+| cell4   | cell5   | cell6   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
@@ -265,7 +230,7 @@ Definition List Title
 :   Definition list division.
 
 Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+:   A startup company or startup is a startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
 #dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
@@ -279,12 +244,28 @@ Do It Live
       * List item one 
           * List item one
           * List item two
+          * List item one
+          * List item two
           * List item three
           * List item four
       * List item two
+          * List item one
+          * List item two
+          * List item three
+          * List item four
       * List item three
+          * List item one
+          * List item two
+          * List item three
+          * List item four
       * List item four
+          * List item one
+          * List item one
+          * List item three
+          * List item four
   * List item two
+      * List item one
+          * List item one
   * List item three
   * List item four
 
@@ -298,10 +279,20 @@ Do It Live
           4. List item four
       2. List item two
       3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+      4. List item three
+      4. List item
+  2. List item one 
+      1. List item one
+          1. List item one
+          2. List list item two
+      2. List item two
+          1. List item one
+          4. Yields a
+       `
+       `
+          * List item one
+          2. List item two
+          3. List item three
 
 ## Buttons
 
@@ -312,14 +303,16 @@ Make any link standout more when applying the `.btn` class.
 Basic notices or call-outs are supported using the following syntax:
 
 ```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
+**Watch out!**  You can also add notices by appending `{: .notice}` to the `following` paragraph.
+{: .notice
+}
 ```
 
 which wil render as:
 
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
+**Watch out!**  You You can also add notices for testing purposes, You can also add notices by appending `{: .notice}` to the `following` paragraph.
+{: .notice
+}
 
 ### Footnotes
 
@@ -347,21 +340,15 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 This is an example of a [link](https://github.com "GitHub").
 
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
 ### Cite Tag
 
-"Code is poetry." ---<cite>Automattic</cite>
+"Code is poetry." --- <cite>Automattic</cite>
 
 ### Code Tag
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
+You can also write larger blocks of code with
 
 ```python
 print('Hello World!')
@@ -395,7 +382,7 @@ Or, you can leave a section open by default by including the `open` attribute in
 
 <details open>
   <summary>Open by default</summary>
-  This section is open by default thanks to open in the &lt;details open&gt; tag!
+  This section is open by default thanks to open in the <details open> tag!
 </details>
 
 
@@ -405,7 +392,7 @@ The emphasize tag should _italicize_ text.
 
 ### Insert Tag
 
-This tag should denote <ins>inserted</ins> text.
+The insert tag should denote <ins>inserted</ins> text.
 
 ### Keyboard Tag
 
