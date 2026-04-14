@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: "Talk map"
-permalink: /talkmap.html
+title: "Talk Map"
+permalink: /talkmap/
 author_profile: true
 ---
 
-<p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb">talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+{% include base_path %}
+
+<h1>Talk Map</h1>
+
+<p>A map showing locations where talks have been given. Run the <code>talkmap.py</code> script in the <code>_talks</code> directory to generate this map.</p>
+
+<div id="talkmap"></div>
