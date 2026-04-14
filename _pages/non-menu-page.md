@@ -1,16 +1,9 @@
 ---
+layout: archive
+title: "Non Menu Page"
 permalink: /non-menu-page/
-title: "Page not in menu"
-author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+{% include base_path %}
 
-Heading 1
-======
-
-Heading 2
-======
+This is a page that is not included in the navigation menu.
