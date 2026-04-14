@@ -11,26 +11,20 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 – Present)
-  * HKUST NLP Group, advised by Professor Junxian He
-* **B.Eng.**, Shanghai Jiao Tong University (2020 – 2024)
-  * Recipient of the Zhiyuan Honor Scholarship
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024-Present
+* **B.Eng. in Computer Science**, Shanghai Jiao Tong University (SJTU), 2020-2024
 
-## Research Experience
+## Work Experience
 
-* **Research Intern**, MINIMAX (February 2025 – Present)
+* **Research Intern**, MINIMAX, Feb 2025 - Present
+* **Research Intern**, Tencent WXG, Jun 2024 - Sep 2024
+* **Research Intern**, Shanghai AI Lab, Jun 2023 - Dec 2023
 
-* **Research Intern**, Tencent WXG (June 2024 – September 2024)
-  * Advisor: Zifei Shan
+## Skills
 
-* **Research Intern**, Shanghai AI Lab (June 2023 – December 2023)
-  * Advisor: Prof. Yu Cheng
-
-## Research Interests
-
-* LLM Reasoning and Reinforcement Learning
-* Hallucination in Vision-Language Models
-* LLM Truthfulness and Interpretability
+* **Programming**: Python, C++, JavaScript, Shell
+* **Deep Learning**: PyTorch, TensorFlow, JAX
+* **NLP Tools**: HuggingFace Transformers, Jieba, NLTK
 
 ## Publications
 
@@ -40,11 +34,4 @@ redirect_from:
 
 ## Awards
 
-* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
-
-## Contact
-
-* **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-* **GitHub**: [Vicent0205](https://github.com/Vicent0205)
-* **Google Scholar**: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-* **X (Twitter)**: [@junteng88716710](https://x.com/junteng88716710)
+* Zhiyuan Honor Scholarship — Shanghai Jiao Tong University

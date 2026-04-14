@@ -1,11 +1,12 @@
 # Authors
 
-Junteng_Liu:
+Junteng Liu:
   name        : "Junteng Liu"
-  uri         : "https://bugmaker00.github.io/LJT-Homepage"
+  uri         : "https://mcpmark-eval-1031.github.io/LJT-Homepage"
   email       : "jliugi@connect.ust.hk"
-  bio         : "First-year PhD candidate at HKUST NLP Group. Graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning, with interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, and LLM truthfulness and interpretability."
-  avatar      : "bio-photo.jpg"
+  bio         : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning, with interests in LLM reasoning, reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
+  avatar      : "profile.png"
   twitter     : "junteng88716710"
-  google_plus : ""
+  google_plus : 
+  github      : "Vicent0205"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"

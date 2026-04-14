@@ -3,8 +3,8 @@
     "name": "Junteng Liu",
     "email": "jliugi@connect.ust.hk",
     "phone": "",
-    "website": "https://bugmaker00.github.io/LJT-Homepage",
-    "summary": "First-year PhD candidate at HKUST NLP Group. Graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning. Research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and interpretability.",
+    "website": "https://mcpmark-eval-1031.github.io/LJT-Homepage",
+    "summary": "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,8 +25,8 @@
       },
       {
         "network": "X (Twitter)",
-        "username": "@junteng88716710",
-        "url": "https://x.com/junteng88716710"
+        "username": "junteng88716710",
+        "url": "https://twitter.com/junteng88716710"
       }
     ]
   },
@@ -34,47 +34,41 @@
     {
       "company": "MINIMAX",
       "position": "Research Intern",
-      "website": "",
-      "startDate": "2025-02-01",
-      "endDate": "",
-      "summary": "Research intern focusing on large language models and multimodal AI.",
-      "highlights": []
+      "startDate": "2025-02",
+      "endDate": "Present",
+      "summary": "Research internship focusing on large language models and machine learning."
     },
     {
       "company": "Tencent WXG",
       "position": "Research Intern",
-      "website": "",
-      "startDate": "2024-06-01",
-      "endDate": "2024-09-01",
-      "summary": "Research intern working on vision-language models and hallucination mitigation, advised by Zifei Shan.",
-      "highlights": []
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "summary": "Research internship at Tencent WeChat Group, working on vision-language models for chart understanding."
     },
     {
       "company": "Shanghai AI Lab",
       "position": "Research Intern",
-      "website": "",
-      "startDate": "2023-06-01",
-      "endDate": "2023-12-01",
-      "summary": "Research intern focused on Chinese language model evaluation and efficient fine-tuning, advised by Prof. Yu Cheng.",
-      "highlights": []
+      "startDate": "2023-06",
+      "endDate": "2023-12",
+      "summary": "Research internship focusing on NLP and evaluation of large language models."
     }
   ],
   "education": [
     {
-      "institution": "Hong Kong University of Science and Technology",
+      "institution": "Hong Kong University of Science and Technology (HKUST)",
       "area": "Ph.D. in Computer Science",
       "studyType": "PhD",
-      "startDate": "2024-09-01",
-      "endDate": "",
+      "startDate": "2024-09",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "Shanghai Jiao Tong University",
+      "institution": "Shanghai Jiao Tong University (SJTU)",
       "area": "B.Eng. in Computer Science",
-      "studyType": "Bachelors",
-      "startDate": "2020-09-01",
-      "endDate": "2024-06-01",
+      "studyType": "Bachelor",
+      "startDate": "2020-09",
+      "endDate": "2024-06",
       "gpa": null,
       "courses": []
     }
@@ -82,18 +76,15 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "",
-      "keywords": ["Python", "C++", "Java", "JavaScript"]
+      "keywords": ["Python", "C++", "JavaScript", "Shell"]
     },
     {
-      "name": "Machine Learning Frameworks",
-      "level": "",
-      "keywords": ["PyTorch", "TensorFlow", "Hugging Face Transformers"]
+      "name": "Deep Learning",
+      "keywords": ["PyTorch", "TensorFlow", "JAX"]
     },
     {
-      "name": "Research Areas",
-      "level": "",
-      "keywords": ["Natural Language Processing", "Machine Learning", "Large Language Models", "Vision-Language Models", "Reinforcement Learning", "Model Interpretability"]
+      "name": "NLP Tools",
+      "keywords": ["HuggingFace Transformers", "Jieba", "NLTK"]
     }
   ],
   "languages": [
@@ -107,60 +98,58 @@
     }
   ],
   "interests": [
-    "LLM Reasoning and Reinforcement Learning",
-    "Hallucination in Vision-Language Models",
-    "LLM Truthfulness and Interpretability"
-  ],
-  "awards": [
     {
-      "title": "Zhiyuan Honor Scholarship",
-      "date": "",
-      "awarder": "Shanghai Jiao Tong University",
-      "summary": "Academic honor awarded for outstanding academic performance at Shanghai Jiao Tong University."
+      "name": "Large Language Models",
+      "keywords": ["Reasoning", "Reinforcement Learning", "Truthfulness", "Interpretability"]
+    },
+    {
+      "name": "Vision-Language Models",
+      "keywords": ["Hallucination", "Chart Understanding", "Perception"]
     }
   ],
+  "references": [],
   "publications": [
     {
       "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
-      "publisher": "Arxiv 2025",
-      "releaseDate": "2025-01-01",
-      "website": "https://arxiv.org/abs/",
-      "summary": "We propose SynLogic, a framework for synthesizing large-scale verifiable reasoning data to train models on logical reasoning tasks and beyond."
+      "publisher": "ArXiv",
+      "releaseDate": "2025-06-08",
+      "website": "https://arxiv.org/abs/2506.07532",
+      "summary": "A framework for generating large-scale logical reasoning data with verifiable correctness."
     },
     {
       "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
-      "publisher": "Arxiv 2025",
-      "releaseDate": "2025-01-01",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-06-08",
       "website": "https://arxiv.org/abs/",
-      "summary": "We investigate the perception bottleneck in vision-language models that limits their ability to understand and reason about charts."
+      "summary": "Investigates the perception bottleneck in vision-language models for understanding charts."
     },
     {
       "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "publisher": "EMNLP 2024",
       "releaseDate": "2024-12-01",
       "website": "https://arxiv.org/abs/",
-      "summary": "We discover a universal truthfulness hyperplane inside LLMs that can be used to control model truthfulness."
+      "summary": "Discovers a universal truthfulness hyperplane inside LLMs and proposes methods to detect and mitigate hallucinations."
     },
     {
       "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "publisher": "ICML 2024",
       "releaseDate": "2024-07-01",
-      "website": "https://proceedings.mlr.press/",
-      "summary": "Co-authored work on using in-context sharpness as an early warning system for hallucination detection in LLMs."
+      "website": "https://arxiv.org/abs/",
+      "summary": "Uses inner representation sharpness as an early alert mechanism for hallucination detection."
     },
     {
       "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
       "website": "https://arxiv.org/abs/",
-      "summary": "Co-authored comprehensive Chinese evaluation benchmark for foundation models across multiple disciplines and difficulty levels."
+      "summary": "A multi-level multi-discipline Chinese evaluation suite for assessing foundation models."
     },
     {
       "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
       "website": "https://arxiv.org/abs/",
-      "summary": "Co-authored work on composing parameter-efficient modules using arithmetic operations for more flexible model adaptation."
+      "summary": "Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining."
     }
   ],
   "presentations": [],
