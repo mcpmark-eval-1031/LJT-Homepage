@@ -14,7 +14,7 @@ redirect_from:
 * **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024-Present
 * **B.Eng. in Computer Science**, Shanghai Jiao Tong University (SJTU), 2020-2024
 
-## Work Experience
+## Research Experience
 
 * **Research Intern**, MINIMAX, Feb 2025 - Present
 * **Research Intern**, Tencent WXG, Jun 2024 - Sep 2024
