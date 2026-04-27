@@ -19,15 +19,17 @@ repository               : "bugmaker00/LJT-Homepage"
 
 # Site Author
 author:
+  # Biographic information
   avatar           : "profile.png"
   name             : "Junteng Liu"
-  pronouns         :
+  pronouns         : "he/him"
   bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning, with interests in LLM reasoning, reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
   uri              :
   email            : "jliugi@connect.ust.hk"
 
+  # Academic websites
   academia         :
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
@@ -41,6 +43,7 @@ author:
   scopus           :
   zotero           :
 
+  # Repositories and software development
   bitbucket        :
   codepen          :
   dribbble         :
@@ -48,6 +51,7 @@ author:
   kaggle           :
   stackoverflow    :
 
+  # Social media
   artstation       :
   bluesky          :
   facebook         :
@@ -74,14 +78,18 @@ author:
   youtube          :
   zhihu            :
 
+# Publication Category
 publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
 
+# Site Settings
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -118,13 +126,15 @@ atom_feed:
   hide                   : false
   path                   :
 
+# SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
-yandex_site_verification  :
+yandex_site_verification :
 
+# Social Sharing
 twitter:
-  username               : &twitter junteng88716710
+  username               : "junteng88716710"
 facebook:
   username               :
   app_id                 :
@@ -137,13 +147,15 @@ social:
   links:
     - https://github.com/Vicent0205
     - https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-    - https://twitter.com/junteng88716710
+    - https://x.com/junteng88716710
 
+# Analytics
 analytics:
   provider               :  "false"
   google:
     tracking_id          :
 
+# Reading Files
 include:
   - .htaccess
   - _pages
@@ -179,14 +191,16 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkd,md"
 
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -197,6 +211,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
 collections:
   teaching:
     output: true
@@ -211,6 +226,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -260,13 +276,16 @@ defaults:
       author_profile: true
       share: true
 
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
+# Outputting
 permalink: /:categories/:title/
 timezone: Etc/UTC
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -275,6 +294,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
+# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -283,6 +303,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+# Archives
 category_archive:
   type: liquid
   path: /categories/
@@ -290,6 +311,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# HTML Compression
 compress_html:
   clippings: all
   ignore:
