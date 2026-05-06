@@ -6,7 +6,7 @@ permalink: /publication/2023-12-01-composing-modules
 excerpt: 'Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining.'
 date: 2023-12-01
 venue: 'Advances in Neural Information Processing Systems (NeurIPS 2023)'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2310.10093'
 codeurl: 'https://github.com/Vicent0205/composing-lora'
 citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). "Composing Parameter-Efficient Modules with Arithmetic Operations." <i>Advances in Neural Information Processing Systems (NeurIPS 2023)</i>.'
 ---
