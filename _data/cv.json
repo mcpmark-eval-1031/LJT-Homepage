@@ -26,7 +26,7 @@
       {
         "network": "X (Twitter)",
         "username": "junteng88716710",
-        "url": "https://twitter.com/junteng88716710"
+        "url": "https://x.com/junteng88716710"
       }
     ]
   },
@@ -76,15 +76,19 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Python", "C++", "JavaScript", "Shell"]
+      "keywords": ["Python", "C++", "Shell", "LaTeX"]
     },
     {
       "name": "Deep Learning",
-      "keywords": ["PyTorch", "TensorFlow", "JAX"]
+      "keywords": ["PyTorch", "TensorFlow"]
     },
     {
-      "name": "NLP Tools",
-      "keywords": ["HuggingFace Transformers", "Jieba", "NLTK"]
+      "name": "NLP & ML",
+      "keywords": ["Large Language Models", "Reinforcement Learning", "Vision-Language Models", "Hallucination Detection", "Model Interpretability"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "Linux", "Docker"]
     }
   ],
   "languages": [
@@ -111,44 +115,44 @@
   "publications": [
     {
       "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
-      "publisher": "ArXiv",
+      "publisher": "arXiv",
       "releaseDate": "2025-06-08",
       "website": "https://arxiv.org/abs/2506.07532",
       "summary": "A framework for generating large-scale logical reasoning data with verifiable correctness."
     },
     {
       "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
-      "publisher": "ArXiv",
+      "publisher": "arXiv",
       "releaseDate": "2025-06-08",
-      "website": "https://arxiv.org/abs/",
+      "website": "https://arxiv.org/abs/2506.05277",
       "summary": "Investigates the perception bottleneck in vision-language models for understanding charts."
     },
     {
       "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "publisher": "EMNLP 2024",
       "releaseDate": "2024-12-01",
-      "website": "https://arxiv.org/abs/",
+      "website": "https://arxiv.org/abs/2411.12557",
       "summary": "Discovers a universal truthfulness hyperplane inside LLMs and proposes methods to detect and mitigate hallucinations."
     },
     {
       "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "publisher": "ICML 2024",
       "releaseDate": "2024-07-01",
-      "website": "https://arxiv.org/abs/",
+      "website": "https://arxiv.org/abs/2407.00241",
       "summary": "Uses inner representation sharpness as an early alert mechanism for hallucination detection."
     },
     {
       "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
-      "website": "https://arxiv.org/abs/",
+      "website": "https://arxiv.org/abs/2310.17044",
       "summary": "A multi-level multi-discipline Chinese evaluation suite for assessing foundation models."
     },
     {
       "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
-      "website": "https://arxiv.org/abs/",
+      "website": "https://arxiv.org/abs/2310.10093",
       "summary": "Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining."
     }
   ],
