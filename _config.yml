@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &name "Junteng Liu"
-description              : &description "Personal academic website of Junteng Liu, a PhD candidate at HKUST"
-url                      : https://bugmaker00.github.io/LJT-Homepage
+name                     : "Junteng Liu"
+description              : "Personal academic website of Junteng Liu, a PhD candidate at HKUST"
+url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
 baseurl                  : ""
-repository               : "bugmaker00/LJT-Homepage"
+repository               : "mcpmark-eval-1031/LJT-Homepage"
 
 # Site Author
 author:
@@ -83,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
   preprints:
@@ -191,7 +191,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkd,md"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
