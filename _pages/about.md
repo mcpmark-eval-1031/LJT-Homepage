@@ -39,6 +39,8 @@ I have received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong Universi
 
 ## Publications
 
+### Conference Papers
+
 {% for pub in site.publications reversed %}
   {% if pub.category == 'conferences' %}
     {% include archive-single.html %}
