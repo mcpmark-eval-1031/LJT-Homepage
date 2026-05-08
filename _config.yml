@@ -8,23 +8,24 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic homepage"
+description              : &description "Junteng Liu's academic portfolio — PhD candidate at HKUST NLP Group"
 url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
 baseurl                  : "/LJT-Homepage"
 repository               : "mcpmark-eval-1031/LJT-Homepage"
+github_username          : Vicent0205
 
 # Site Author
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : "he/him"
-  bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning, with interests in LLM reasoning, reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group. Research: LLM reasoning, reinforcement learning, hallucination in VLMs, LLM truthfulness and interpretability."
   location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "HKUST NLP Group"
   email            : "jliugi@connect.ust.hk"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   github           : "Vicent0205"

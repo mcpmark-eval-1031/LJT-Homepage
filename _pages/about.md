@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "About"
-permalink: /about/
+permalink: /
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-Hi, I'm **Junteng Liu**. I'm a first-year PhD candidate at the **HKUST NLP Group** at the Hong Kong University of Science and Technology (HKUST), advised by **Professor Junxian He**. I completed my B.Eng. at **Shanghai Jiao Tong University (SJTU)** in June 2024.
+Hi, I'm **Junteng Liu** (刘骏腾). I'm a first-year PhD candidate at the **HKUST NLP Group** at the Hong Kong University of Science and Technology (HKUST), advised by **Professor Junxian He**. I completed my B.Eng. at **Shanghai Jiao Tong University (SJTU)** in June 2024.
 
 My research focuses on **natural language processing** and **machine learning**. Specifically, I am interested in:
 
@@ -20,7 +20,7 @@ My research focuses on **natural language processing** and **machine learning**.
 - **Hallucination in Vision-Language Models (VLM)** — Understanding and mitigating hallucinations in multimodal models
 - **LLM Truthfulness and Interpretability** — Making LLMs more truthful and their internal decisions more interpretable
 
-I have received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University.
+I received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University.
 
 ## Academic Background
 
