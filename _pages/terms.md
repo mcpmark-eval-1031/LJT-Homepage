@@ -13,52 +13,30 @@ The privacy of my visitors is extremely important. This Privacy Policy outlines 
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-## Publications (Selected)
+## Log Files
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — *ArXiv* — First author. A framework for generating large-scale logical reasoning data with verifiable correctness. [GitHub](https://github.com/Vicent0205/SynLogic)
+Like many other websites, this site uses log files to help learn about how the site is being used. The information in the log files includes the IP address, browser type, date/time stamp, and referring/exit pages. This information is used to analyze trends, administer the site, and gather general demographic information. This information is not linked to personally identifiable information.
 
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — *ArXiv* — First author. Investigates the perception bottleneck in vision-language models for understanding charts. [GitHub](https://github.com/Vicent0205/Vision4Chart)
+## Cookies
 
-- **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) — *EMNLP 2024* — First author. Discovers a universal truthfulness hyperplane inside LLMs and proposes methods to detect and mitigate hallucinations. [GitHub](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+This site uses cookies to improve your experience while visiting the site. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the site's systems to recognize your browser and capture and remember certain information.
 
-- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024) — *ICML 2024* — Co-author. Uses inner representation sharpness as an early alert mechanism for hallucination detection.
+## Third-Party Services
 
-- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023) — *NeurIPS 2023* — Co-author. A multi-level multi-discipline Chinese evaluation suite for assessing foundation models.
+This site may use third-party services such as Google Analytics to analyze site usage. These services may collect anonymous information about your visit to this site and other websites. This information is used to compile reports and to help improve the site.
 
-- **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023) — *NeurIPS 2023* — Co-author. Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining.
+## Links to Other Websites
 
-## Research Experience
+This site contains links to other websites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the privacy policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Ph.D. Candidate**, HKUST NLP Group — 2024-Present
-- Research focuses on NLP and machine learning
-- Advised by Prof. Junxian He
-- Research interests: LLM reasoning & reinforcement learning, hallucination in VLMs, LLM truthfulness & interpretability
+## Children's Information
 
-**Research Intern**, MINIMAX — Feb 2025 - Present
-- Research internship focusing on large language models and machine learning
+This site does not knowingly collect any personally identifiable information from children under the age of 13. If you think that your child provided this kind of information on this site, I strongly encourage you to contact me immediately and I will do my best to promptly remove such information from our records.
 
-**Research Intern**, Tencent WXG — Jun 2024 - Sep 2024
-- Worked on vision-language models for chart understanding
-- Advised by Zifei Shan
+## Online Privacy Policy Only
 
-**Research Intern**, Shanghai AI Lab — Jun 2023 - Dec 2023
-- Worked on NLP and evaluation of large language models
-- Advised by Prof. Yu Cheng
+This privacy policy applies only to information collected through this website and not to information collected offline.
 
-## Academic Background
+## Consent
 
-- **B.Eng. in Computer Science**, Shanghai Jiao Tong University (SJTU), 2020-2024
-  - Received Zhiyuan Honor Scholarship
-
-## Skills
-
-- **Programming**: Python, C++, JavaScript, Shell
-- **Deep Learning**: PyTorch, TensorFlow, JAX
-- **NLP Tools**: HuggingFace Transformers, Jieba, NLTK
-
-## Contact
-
-- **Email**: jliugi@connect.ust.hk
-- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar**: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
+By using this website, you hereby consent to our privacy policy and agree to its terms.
