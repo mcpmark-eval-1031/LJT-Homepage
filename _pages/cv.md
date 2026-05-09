@@ -19,7 +19,7 @@ redirect_from:
   * 2020 – 2024
   * Awarded Zhiyuan Honor Scholarship
 
-## Research Experience
+## Work experience
 
 **PhD Candidate** | HKUST NLP Group
 *2024 – Present*
