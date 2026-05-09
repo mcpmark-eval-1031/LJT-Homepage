@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "About"
-permalink: /nauthor_profile: true
+permalink: /
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
@@ -54,13 +55,13 @@ I received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University.
    Junteng Liu*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *arXiv preprint, 2025*  
    [Paper](https://arxiv.org/abs/2506.07532) | [Code](https://github.com/Vicent0205/SynLogic)  
-   *(* denotes first author*)
+   *(* denotes first author)*
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
    Junteng Liu*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *arXiv preprint, 2025*  
    [Paper](https://arxiv.org/abs/2506.05277) | [Code](https://github.com/Vicent0205/Vision4Chart)  
-   *(* denotes first author*)
+   *(* denotes first author)*
 
 ### Conference Papers
 
