@@ -31,6 +31,11 @@ I received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University.
 
 ## Research Experience
 
+**PhD Candidate** | HKUST NLP Group
+*2024 – Present*
+  - Advisor: Professor Junxian He
+  - Research focus: Natural language processing, large language models, reinforcement learning, hallucination in VLMs, LLM truthfulness and interpretability
+
 **Research Intern** | MINIMAX
 *February 2025 – Present*
 
