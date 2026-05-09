@@ -40,15 +40,9 @@ redirect_from:
 ## Skills
 
 * **Programming Languages:** Python, C/C++, Shell, LaTeX
-* **Deep Learning Frameworks:** PyTorch, TensorFlow
+- **Deep Learning Frameworks:** PyTorch, TensorFlow
 * **NLP & ML:** Large Language Models, Reinforcement Learning, Vision-Language Models, Hallucination Detection, Model Interpretability
 * **Tools:** Git, Linux, Docker
-
-## Publications
-
-{% for post in site.publications reversed %}
-{% include archive-single-cv.html %}
-{% endfor %}
 
 ## Awards
 
