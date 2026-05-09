@@ -1,21 +1,16 @@
 ---
 title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
 collection: publications
-category: conferences
-permalink: /publication/2023-12-01-composing-modules
-excerpt: 'Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining.'
+permalink: /publication/2023-composing-modules
+excerpt: 'Composing parameter-efficient modules with arithmetic operations'
 date: 2023-12-01
-venue: 'Advances in Neural Information Processing Systems (NeurIPS 2023)'
-paperurl: 'https://arxiv.org/abs/2310.10093'
-codeurl: 'https://github.com/Vicent0205/composing-lora'
-citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). "Composing Parameter-Efficient Modules with Arithmetic Operations." <i>Advances in Neural Information Processing Systems (NeurIPS 2023)</i>.'
+venue: 'NeurIPS 2023'
+paperurl: 'https://arxiv.org/abs/2308.11868'
+citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). "Composing Parameter-Efficient Modules with Arithmetic Operations." Advances in Neural Information Processing Systems (NeurIPS 2023).'
 ---
 
-This paper explores composing parameter-efficient modules (such as LoRA adapters) using arithmetic operations to create new capabilities without full retraining. By combining existing modules through addition, subtraction, and other operations, we can efficiently create models with combined abilities.
+**Authors:** Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
 
-Key contributions:
-- Novel method for composing LoRA modules with arithmetic operations
-- Demonstration of emergent capabilities from module composition
-- Efficient approach to multi-task learning without retraining
+**Venue:** NeurIPS 2023
 
-**Authors**: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+[Paper](https://arxiv.org/abs/2308.11868) | [Code](https://github.com/Vicent0205/composing-lora)
