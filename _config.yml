@@ -13,9 +13,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio — PhD candidate at HKUST NLP Group researching LLM reasoning, reinforcement learning, hallucination in VLMs, and LLM truthfulness"
-url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
+url                      : https://bugmaker00.github.io/LJT-Homepage
 baseurl                  : "/LJT-Homepage"
-repository               : "mcpmark-eval-1031/LJT-Homepage"
+repository               : "bugmaker00/LJT-Homepage"
 github_username          : Vicent0205
 
 # Site Author
@@ -24,14 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         : "he/him"
-  bio              : "First-year PhD candidate at HKUST NLP Group. Research interests: LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group. Research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
-  uri              : 
+  uri              :
   email            : "jliugi@connect.ust.hk"
 
   # Academic profiles
-  academia         : 
+  academia         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
 
   # Repositories and software development
@@ -52,22 +52,22 @@ publication_category:
     title: 'Preprints'
 
 # Site Settings
-teaser                   : 
+teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
 talkmap_link             : false
 comments:
-  provider               : 
+  provider               :
   disqus:
     shortname            :
   discourse:
-    server               : 
+    server               :
   facebook:
     appid                :
-    num_posts            : 
-    colorscheme          : 
+    num_posts            :
+    colorscheme          :
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages"
@@ -86,7 +86,7 @@ staticman:
         format           : "iso8601"
 atom_feed:
   hide                   : false
-  path                   : 
+  path                   :
 
 
 # SEO Related
@@ -103,11 +103,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : 
-og_description           : 
+og_image                 :
+og_description           :
 social:
-  type                   : 
-  name                   : 
+  type                   :
+  name                   :
   links: 
 
 
