@@ -1,14 +1,12 @@
 ---
-layout: single
 permalink: /
-title: "About Me"
+title: "Junteng Liu"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkustnlp.org/), advised by [Professor Junxian He](https://jxhe.github.io/). I graduated from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+# Junteng Liu
+
+First-year PhD candidate at [HKUST NLP Group](https://hkustnlp.org/), advised by [Professor Junxian He](https://jxhe.github.io/). Graduated from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU) in June 2024. Research focuses on natural language processing and machine learning.
 
 ## Research Interests
 

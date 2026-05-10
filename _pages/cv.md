@@ -19,7 +19,7 @@ redirect_from:
   * 2020 – 2024
   * Awarded Zhiyuan Honor Scholarship
 
-## Work experience
+## Work Experience
 
 **PhD Candidate** | HKUST NLP Group
 *2024 – Present*
@@ -39,11 +39,17 @@ redirect_from:
 
 ## Skills
 
-* **Programming Languages:** Python, C/C++, Shell, LaTeX
+- **Programming Languages:** Python, C/C++, Shell, LaTeX
 - **Deep Learning Frameworks:** PyTorch, TensorFlow
-* **NLP & ML:** Large Language Models, Reinforcement Learning, Vision-Language Models, Hallucination Detection, Model Interpretability
-* **Tools:** Git, Linux, Docker
+- **NLP & ML:** Large Language Models, Reinforcement Learning, Vision-Language Models, Hallucination Detection, Model Interpretability
+- **Tools:** Git, Linux, Docker
 
 ## Awards
 
-* **Zhiyuan Honor Scholarship** — Shanghai Jiao Tong University
+- **Zhiyuan Honor Scholarship** — Shanghai Jiao Tong University
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
