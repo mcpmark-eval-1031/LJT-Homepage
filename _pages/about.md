@@ -46,13 +46,13 @@ Advisor: Prof. Yu Cheng
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    Junteng Liu\*, Yuanxiang Fan\*, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *arXiv preprint, 2025*  
-   [Paper](https://arxiv.org/abs/2502.00768) | [Code](https://github.com/JunxLiu/SynLogic)  
+   [Paper](https://arxiv.org/abs/2502.03823) | [Code](https://github.com/MiniMax-AI/SynLogic)  
    \* denotes first author
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
    Junteng Liu\*, Weihao Zeng\*, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
    *arXiv preprint, 2025*  
-   [Paper](https://arxiv.org/abs/2501.12932) | [Code](https://github.com/JunxLiu/Vision4Chart)  
+   [Paper](https://arxiv.org/abs/2502.12560) | [Code](https://github.com/Vicent0205/Vision4Chart)  
    \* denotes first author
 
 ### Conference Papers
@@ -60,22 +60,22 @@ Advisor: Prof. Yu Cheng
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
    Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He  
    *Proceedings of EMNLP 2024*  
-   [Paper](https://arxiv.org/abs/2410.03864) | [Code](https://github.com/JunxLiu/Universal_Truthfulness_Hyperplane)
+   [Paper](https://arxiv.org/abs/2406.04323) | [Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
    Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
    *Proceedings of ICML 2024*  
-   [Paper](https://arxiv.org/abs/2403.01548)
+   [Paper](https://arxiv.org/abs/2402.00759)
 
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
    Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
    *Advances in Neural Information Processing Systems (NeurIPS 2023)*  
-   [Paper](https://arxiv.org/abs/2305.08322)
+   [Paper](https://arxiv.org/abs/2305.13022) | [Code](https://github.com/ceval-eval/ceval)
 
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations**  
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He  
    *Advances in Neural Information Processing Systems (NeurIPS 2023)*  
-   [Paper](https://arxiv.org/abs/2306.14870) | [Code](https://github.com/JunxLiu/composing-lora)
+   [Paper](https://arxiv.org/abs/2306.04477)
 
 ## Honors & Awards
 
