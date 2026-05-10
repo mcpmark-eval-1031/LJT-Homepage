@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio — PhD candidate at HKUST NLP Group researching LLM reasoning, reinforcement learning, hallucination in VLMs, and LLM truthfulness"
-url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
+description              : &description "Junteng Liu's academic portfolio"
+url                      : https://bugmaker00.github.io/LJT-Homepage
 baseurl                  : ""
-repository               : "mcpmark-eval-1031/LJT-Homepage"
+repository               : "bugmaker00/LJT-Homepage"
 
 # Site Author
 author:
@@ -30,13 +30,52 @@ author:
 
   # Academic profiles
   academia         :
+  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  inspire-hep      :
+  impactstory      :
+  orcid            :
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
   # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
   github           : "Vicent0205"
+  kaggle           :
+  stackoverflow    :
 
   # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
   twitter          : "junteng88716710"
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
 
 # Publication Category
 publication_category:
