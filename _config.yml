@@ -13,9 +13,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio — PhD candidate at HKUST NLP Group researching LLM reasoning, reinforcement learning, hallucination in VLMs, and LLM truthfulness"
-url                      : https://bugmaker00.github.io/LJT-Homepage
+url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
 baseurl                  : "/LJT-Homepage"
-repository               : "bugmaker00/LJT-Homepage"
+repository               : "mcpmark-eval-1031/LJT-Homepage"
 github_username          : Vicent0205
 
 # Site Author
