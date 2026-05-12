@@ -1,6 +1,6 @@
 # LJT-Homepage
 
-Personal academic homepage of **Junteng Liu** (刘骏腾), PhD candidate at HKUST NLP Group.
+Personal academic homepage of **Junteng Liu**, PhD candidate at HKUST NLP Group.
 
 ## About
 
