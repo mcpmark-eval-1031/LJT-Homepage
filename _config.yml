@@ -13,14 +13,16 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://bugmaker00.github.io/LJT-Homepage
-baseurl                  : ""
-repository               : "bugmaker00/LJT-Homepage"
+url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "mcpmark-eval-1031/LJT-Homepage"
 
 # Site Author
 author:
+  # Biographic information
   avatar           : "profile.png"
   name             : "Junteng Liu"
+  pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group. Research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
@@ -71,7 +73,7 @@ author:
   twitter          : "junteng88716710"
   vine             :
   weibo            :
-  wikipedia        :
+  wikipedia       :
   xing             :
   youtube          :
   zhihu            :
@@ -81,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
   preprints:
@@ -130,6 +132,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+
 # Social Sharing
 twitter:
   username               : &twitter "junteng88716710"
@@ -142,13 +145,15 @@ og_description           :
 social:
   type                   :
   name                   :
-  links: 
+  links:
+
 
 # Analytics
 analytics:
   provider               :  "false"
   google:
     tracking_id          :
+
 
 # Reading Files
 include:
@@ -172,6 +177,7 @@ exclude:
   - Dockerfile
   - Gemfile
   - Gruntfile.js
+  - gulpfile.js
   - LICENSE
   - local
   - log
@@ -193,6 +199,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 # Markdown Processing
 kramdown:
