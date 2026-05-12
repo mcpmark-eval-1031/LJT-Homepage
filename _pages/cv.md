@@ -39,10 +39,7 @@ redirect_from:
 
 ## Skills
 
-- **Programming Languages:** Python, C/C++, Shell, LaTeX
-- **Deep Learning Frameworks:** PyTorch, TensorFlow
-- **NLP & ML:** Large Language Models, Reinforcement Learning, Vision-Language Models, Hallucination Detection, Model Interpretability
-- **Tools:** Git, Linux, Docker
+- **Research Areas:** Natural Language Processing, Machine Learning, LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, LLM Truthfulness and Interpretability
 
 ## Awards
 
