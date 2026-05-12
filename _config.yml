@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://bugmaker00.github.io/LJT-Homepage
+url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
 baseurl                  : ""
-repository               : "bugmaker00/LJT-Homepage"
+repository               : "mcpmark-eval-1031/LJT-Homepage"
 
 # Site Author
 author:
