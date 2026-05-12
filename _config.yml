@@ -21,7 +21,6 @@ repository               : "mcpmark-eval-1031/LJT-Homepage"
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
-  pronouns         : "he/him"
   bio              : "First-year PhD candidate at HKUST NLP Group. Research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
@@ -45,7 +44,7 @@ author:
   # Repositories and software development
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble        :
   github           : "Vicent0205"
   kaggle           :
   stackoverflow    :
@@ -113,7 +112,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields          : ['name', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -173,7 +172,6 @@ exclude:
   - Dockerfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
   - local
   - log
