@@ -2,11 +2,14 @@
 permalink: /
 title: "Junteng Liu"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Junteng Liu
 
-First-year PhD candidate at [HKUST NLP Group](https://hkustnlp.org/), advised by [Professor Junxian He](https://jxhe.github.io/). Graduated from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU) in June 2024. Research focuses on natural language processing and machine learning.
+First-year PhD candidate at [HKUST NLP Group](https://hkust-nlp.group/), advised by [Professor Junxian He](https://jxhe.github.io/). Graduated from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU) in June 2024. Research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
