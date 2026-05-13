@@ -13,9 +13,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's personal homepage — PhD candidate at HKUST NLP Group"
-url                      : https://bugmaker00.github.io/LJT-Homepage
+url                      : https://mcpmark-eval-1031.github.io/LJT-Homepage
 baseurl                  : ""
-repository               : "bugmaker00/LJT-Homepage"
+repository               : "mcpmark-eval-1031/LJT-Homepage"
 
 # Site Author
 author:
