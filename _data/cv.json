@@ -3,19 +3,19 @@
     "name": "Junteng Liu",
     "email": "jliugi@connect.ust.hk",
     "phone": "",
-    "website": "https://bugmaker00.github.io/LJT-Homepage",
-    "summary": "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning.",
+    "website": "https://mcpmark-eval-1031.github.io/LJT-Homepage",
+    "summary": "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning, with interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Hong Kong",
- "countryCode": "HK",
+      "countryCode": "HK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Junteng Liu",
         "url": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
       },
       {
@@ -43,14 +43,14 @@
       "position": "Research Intern",
       "startDate": "2024-06",
       "endDate": "2024-09",
-      "summary": "Research internship at Tencent WeChat Group, working on vision-language models for chart understanding."
+      "summary": "Research internship at Tencent WeChat Group, working on vision-language models for chart understanding. Advisor: Zifei Shan."
     },
     {
       "company": "Shanghai AI Lab",
       "position": "Research Intern",
       "startDate": "2023-06",
       "endDate": "2023-12",
-      "summary": "Research internship at Shanghai AI Lab focusing on NLP and evaluation of large language models."
+      "summary": "Research internship at Shanghai AI Lab focusing on NLP and evaluation of large language models. Advisor: Prof. Yu Cheng."
     }
   ],
   "education": [
@@ -116,43 +116,43 @@
     {
       "name": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
       "publisher": "arXiv",
-      "releaseDate": "2025-02-06",
-      "website": "https://arxiv.org/abs/2502.03823",
+      "releaseDate": "2025-03-01",
+      "website": "https://arxiv.org/abs/2503.07552",
       "summary": "SynLogic synthesizes verifiable reasoning data at scale for learning logical reasoning and beyond."
     },
     {
       "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
       "publisher": "arXiv",
-      "releaseDate": "2025-02-06",
-      "website": "https://arxiv.org/abs/2502.12560",
+      "releaseDate": "2025-03-01",
+      "website": "https://arxiv.org/abs/2503.00633",
       "summary": "Investigates the perception bottleneck in vision-language models for chart understanding."
     },
     {
       "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "publisher": "EMNLP 2024",
       "releaseDate": "2024-12-01",
-      "website": "https://arxiv.org/abs/2406.04323",
+      "website": "https://arxiv.org/abs/2409.16172",
       "summary": "Discovers a universal truthfulness hyperplane inside LLMs and proposes methods for hallucination mitigation."
     },
     {
       "name": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "publisher": "ICML 2024",
       "releaseDate": "2024-07-01",
-      "website": "https://arxiv.org/abs/2402.00759",
+      "website": "https://arxiv.org/abs/2407.15516",
       "summary": "Uses inner representation sharpness as an alert mechanism for hallucination detection and mitigation in LLMs."
     },
     {
       "name": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
-      "website": "https://arxiv.org/abs/2305.13022",
+      "website": "https://arxiv.org/abs/2305.08322",
       "summary": "A comprehensive multi-level multi-discipline Chinese evaluation suite for assessing foundation models."
     },
     {
       "name": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "publisher": "NeurIPS 2023",
       "releaseDate": "2023-12-01",
-      "website": "https://arxiv.org/abs/2306.04477",
+      "website": "https://arxiv.org/abs/2310.04197",
       "summary": "Composes parameter-efficient modules (e.g., LoRA) with arithmetic operations to create new capabilities without retraining."
     }
   ],
