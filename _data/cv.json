@@ -9,7 +9,7 @@
       "address": "",
       "postalCode": "",
       "city": "Hong Kong",
-      "countryCode": "HK",
+ "countryCode": "HK",
       "region": ""
     },
     "profiles": [
@@ -36,7 +36,7 @@
       "position": "Research Intern",
       "startDate": "2025-02",
       "endDate": "Present",
-      "summary": "Research internship focusing on large language models and machine learning."
+      "summary": "Research internship at MINIMAX focusing on large language models and machine learning."
     },
     {
       "company": "Tencent WXG",
@@ -50,7 +50,7 @@
       "position": "Research Intern",
       "startDate": "2023-06",
       "endDate": "2023-12",
-      "summary": "Research internship focusing on NLP and evaluation of large language models."
+      "summary": "Research internship at Shanghai AI Lab focusing on NLP and evaluation of large language models."
     }
   ],
   "education": [
