@@ -40,8 +40,9 @@ redirect_from:
 ## Skills
 
 - **Research Areas:** Natural Language Processing, Machine Learning, LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, LLM Truthfulness and Interpretability
-- **Programming Languages:** Python, PyTorch, C++
-- **Techniques:** Deep Learning, Reinforcement Learning, Contrastive Learning, RLHF
+- **Programming Languages:** Python, C/C++
+- **Deep Learning Frameworks:** PyTorch, TensorFlow
+- **Tools:** Git, Linux, Docker, LaTeX
 
 ## Awards
 
