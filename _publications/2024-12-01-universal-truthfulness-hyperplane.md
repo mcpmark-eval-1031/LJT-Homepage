@@ -15,4 +15,6 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Univer
 
 **Venue:** EMNLP 2024
 
+This paper discovers and analyzes the universal truthfulness hyperplane inside large language models, providing insights into model truthfulness and interpretability.
+
 [Paper](https://arxiv.org/abs/2406.04323) | [Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
