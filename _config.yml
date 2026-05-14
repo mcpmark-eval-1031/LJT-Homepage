@@ -15,7 +15,7 @@ name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's personal homepage — PhD candidate at HKUST NLP Group"
 url                      : https://bugmaker00.github.io/LJT-Homepage
 baseurl                  : ""
-repository               : "mcpmark-eval-1031/LJT-Homepage"
+repository               : "bugmaker00/LJT-Homepage"
 
 # Site Author
 author:
@@ -43,7 +43,6 @@ author:
   scopus           :
   zotero           :
 
-
   # Repositories and software development
   bitbucket        :
   codepen          :
@@ -60,7 +59,7 @@ author:
   foursquare       :
   goodreads        :
   google_plus      :
-  keybase          :
+  keybase         :
   instagram        :
   lastfm           :
   linkedin         :
@@ -84,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
   preprints:
