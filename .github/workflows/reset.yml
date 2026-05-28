@@ -1,0 +1,81 @@
+name: Reset to profile
+on:
+  workflow_dispatch:
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm -r .
+          mkdir -p pages
+          cat > README.md << 'EOF'
+          # LJT-Homepage
+
+          This is a draft academic profile site for Ravi Narayan.
+
+          ## How to review the draft
+
+          1. Check `site_profile.yml` for structured profile data.
+          2. Review `pages/home.md` for the homepage content.
+          3. Review `pages/publications.md` for the publications list.
+          4. Verify that no private details are present in any published files.
+
+          ## Note on private details
+
+          Private details (such as personal phone number, passport number, and family contact name) were intentionally excluded from this repository and are not published here.
+          EOF
+          cat > site_profile.yml << 'EOF'
+          name: Ravi Narayan
+          role: Postdoctoral Fellow in Computational Social Science
+          affiliation: Harborview Data Lab
+          short_bio: studies how online communities coordinate during public-interest events
+          research_areas:
+            - civic technology
+            - social network measurement
+            - reproducible field studies
+          email: ravi.narayan@example.org
+          website: https://harborview.example.org/ravi
+          publications:
+            - title: Mapping Mutual Aid Networks
+              year: 2024
+            - title: Audit Trails for Community Moderation
+              year: 2025
+          experience:
+            - role: Data Science Fellow
+              organization: Open Cities Initiative
+              years: 2022-2024
+          EOF
+          cat > pages/home.md << 'EOF'
+          # Ravi Narayan
+
+          **Postdoctoral Fellow in Computational Social Science**  
+          Harborview Data Lab
+
+          ## About
+
+          Ravi Narayan studies how online communities coordinate during public-interest events.
+
+          ## Research Areas
+
+          - civic technology
+          - social network measurement
+          - reproducible field studies
+
+          ## Contact
+
+          - Email: [ravi.narayan@example.org](mailto:ravi.narayan@example.org)
+          - Website: [https://harborview.example.org/ravi](https://harborview.example.org/ravi)
+          EOF
+          cat > pages/publications.md << 'EOF'
+          # Publications
+
+          1. Mapping Mutual Aid Networks (2024)
+          2. Audit Trails for Community Moderation (2025)
+          EOF
+          touch .nojekyll
+          git add .
+          git commit -m "Reset to academic profile draft"
+          git push
