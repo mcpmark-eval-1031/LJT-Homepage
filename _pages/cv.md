@@ -21,28 +21,25 @@ redirect_from:
 
 ## Work Experience
 
-**PhD Candidate** | HKUST NLP Group
-*2024 – Present*
+**PhD Candidate** | HKUST NLP Group  
+*2024 – Present*  
   - Advisor: Professor Junxian He
   - Research focus: Natural language processing, large language models, reinforcement learning, hallucination in VLMs, LLM truthfulness and interpretability
 
-**Research Intern** | MINIMAX
+**Research Intern** | MINIMAX  
 *February 2025 – Present*
 
-**Research Intern** | Tencent WXG
-*June 2024 – September 2024*
+**Research Intern** | Tencent WXG  
+*June 2024 – September 2024*  
   - Advisor: Zifei Shan
 
-**Research Intern** | Shanghai AI Lab
-*June 2023 – December 2023*
+**Research Intern** | Shanghai AI Lab  
+*June 2023 – December 2023*  
   - Advisor: Prof. Yu Cheng
 
 ## Skills
 
 - **Research Areas:** Natural Language Processing, Machine Learning, LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, LLM Truthfulness and Interpretability
-- **Programming Languages:** Python, C/C++
-- **Deep Learning Frameworks:** PyTorch, TensorFlow
-- **Tools:** Git, Linux, Docker, LaTeX
 
 ## Awards
 
