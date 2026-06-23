@@ -13,16 +13,16 @@ I am a first-year PhD candidate at the **HKUST NLP Group**, supervised by Profes
 
 ## Research Interests
 
-- **LLM Reasoning and Reinforcement Learning** — Developing reasoning capabilities in large language models through reinforcement learning
-- **Hallucination in Vision-Language Models (VLM)** — Understanding and mitigating hallucinations in multimodal models
-- **LLM Truthfulness and Interpretability** — Making LLMs more truthful and their internal decisions more interpretable
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
 
 ## Academic Background
 
 - **Ph.D. in Computer Science** (2024–Present) — Hong Kong University of Science and Technology (HKUST)  
   Advisor: Professor Junxian He
 
-- **B.Eng. in Computer Science** (2020–2024) — Shanghai Jiao Tong University (SJTU)  
+- **B.Eng.** (2020–2024) — Shanghai Jiao Tong University (SJTU)  
   Awarded Zhiyuan Honor Scholarship
 
 ## Research Experience
