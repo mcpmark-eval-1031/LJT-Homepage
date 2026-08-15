@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's personal homepage — PhD candidate at HKUST NLP Group"
+description              : &description "Junteng Liu's personal homepage — PhD candidate (Ph.D. in Computer Science, HKUST) at the HKUST NLP Group"
 url                      : https://mcpmark-eval-1031.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "mcpmark-eval-1031/LJT-Homepage"
@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning, with interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group, in the Ph.D. in Computer Science program at the Hong Kong University of Science and Technology (HKUST). Research focuses on natural language processing and machine learning, with interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
   uri              : "https://mcpmark-eval-1031.github.io/LJT-Homepage"
