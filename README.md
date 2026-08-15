@@ -1,6 +1,6 @@
 # Junteng Liu
 
-Personal academic website of Junteng Liu, PhD candidate at HKUST NLP Group.
+Personal academic website of Junteng Liu, PhD candidate at HKUST NLP Group, in the Ph.D. in Computer Science program at the Hong Kong University of Science and Technology (HKUST).
 
 ## Quick Links
 
